@@ -1,0 +1,53 @@
+#,Course,Location,Holes,Par,Yards,Difficulty,Green Fees,Tee Times,Website
+1,Lady Bird Johnson GC,"Fredericksburg, TX",18,71,"6,432–6,886",Moderate,$45–$75,Yes,https://ladybirdgolf.com/
+2,The Buckhorn GC,"Comfort, TX",18,71,"6,648",Moderate,$35–$50,Yes,https://www.buckhorngolfcourse.com/
+3,Scott Schreiner Muni GC,"Kerrville, TX",18,70,"6,453",Moderate,$30–$45,Yes,https://www.golfkerrvilletex.com/
+4,Blue Lake GC,"Horseshoe Bay, TX",9,36,"~3,000",Beginner,$25–$35,Yes,https://bluelakegolf.com/
+5,Lighthouse CC,"Kingsland, TX",18,71,"~6,500",Moderate,$40–$60,Yes,https://lighthousecountryclub.com/
+6,Llano River GC,"Llano, TX",18,71,"6,094",Moderate,$30–$50,Yes,https://www.golfllanoriver.com/
+7,Legends GC,"Kingsland, TX",18,72,"~6,800",Moderate,$40–$60,Yes,https://legendslbj.com/
+8,Delaware Springs GC,"Burnet, TX",18,72,"6,819",Moderate,$30–$35,Yes,https://delawaresprings.com/
+9,Tapatio Springs GC,"Boerne, TX",18,72,"~6,800",Moderate,$60–$100,Yes,https://www.tapatiosprings.com/
+10,Vaaler Creek GC,"Blanco, TX",18,72,"~6,800",Moderate,$50–$80,Yes,https://www.vaalercreekgolfclub.com/
+11,Cypress Valley GC,"Spicewood, TX",9,36,"~3,200",Beginner,$25–$35,Yes,https://www.cypressvalley.com/
+12,Pedernales GC (Cut-N-Putt),"Spicewood, TX",9,36,"3,030–3,330",Moderate,$25–$40,Yes (walk-in),http://cutnputt.com/
+13,Bandit GC,"New Braunfels, TX",18,72,"~6,900",Moderate,$40–$60,Yes,https://www.banditgolfclub.com/
+14,Landa Park GC,"New Braunfels, TX",18,71,"~6,100",Moderate,$30–$45,Yes,https://www.landaparkgolfcourse.com/
+15,Plum Creek GC,"Kyle, TX",18,72,"7,132",Challenging,$50–$85,Yes,https://www.plumcreekgolf.com/
+16,Brackenridge Park GC,"San Antonio, TX",18,71,"6,243",Moderate,$25–$45,Yes,https://alamocitygolftrail.com/brackenridge-park-golf-course/
+17,Cedar Creek GC,"San Antonio, TX",18,72,"6,716",Moderate,$30–$50,Yes,https://alamocitygolftrail.com/cedar-creek-golf-course/
+18,The Quarry GC,"San Antonio, TX",18,72,"6,824",High,$90–$150,Yes,https://quarrygolf.com/
+19,Northern Hills GC,"San Antonio, TX",18,72,"6,603",Moderate,$35–$60,Yes,https://alamocitygolftrail.com/northern-hills-golf-course/
+20,Olympia Hills GC,"Universal City, TX",18,72,"7,100",Challenging,$45–$75,Yes,https://www.olympiahillsgolf.com/
+21,Willow Springs GC,"San Antonio, TX",18,72,"6,500",Moderate,$30–$45,Yes,https://alamocitygolftrail.com/willow-springs-golf-course/
+22,Lockhart State Park GC,"Lockhart, TX",9,35,"2,900",Beginner,$15–$25,Yes (walk-in),https://tpwd.texas.gov/state-parks/lockhart/fees-facilities/golf-course
+23,San Pedro Par 3 GC,"San Antonio, TX",9,27,"1,200",Beginner,$15–$25,Yes (walk-in),https://alamocitygolftrail.com/
+24,Riverside GC,"Austin, TX",18,71,"6,562",Moderate,$18–$25,Yes,https://riverside-gc.com/
+25,ShadowGlen GC,"Manor, TX",18,72,"7,205",High,$65–$95,Yes,https://www.shadowglengolf.com/
+26,San Gabriel GC,"Georgetown, TX",18,72,"6,500",Moderate,$35–$55,Yes,https://georgetowncountryclub.net/
+27,Star Ranch GC,"Hutto, TX",18,71,"7,017",Moderate,$62–$119,Yes,https://www.starranchgolf.com/
+28,Crystal Falls GC,"Leander, TX",18,72,"6,654",Moderate,$42–$59,Yes,https://www.crystalfallsgolf.com/
+29,Avery Ranch GC,"Austin, TX",18,72,"7,121",Challenging,$50–$74,Yes,https://www.averyranchhoa.com/
+30,Hancock GC,"Austin, TX",18,70,"4,500",Easy,$18,Yes,https://www.austintexas.gov/department/hancock-course
+31,Jimmy Clay GC,"Austin, TX",18,72,"6,857",Moderate,$30–$37,Yes,https://www.austintexas.gov/department/jimmy-clay-course
+32,Morris Williams GC,"Austin, TX",18,72,"6,637",Moderate,$30–$37,Yes,https://www.austintexas.gov/department/morris-williams-course
+33,Lions Municipal GC,"Austin, TX",18,71,"6,001",Moderate,$30–$37,Yes,https://www.austintexas.gov/department/lions-municipal-course
+34,Roy Kizer GC,"Austin, TX",18,71,"6,819",Moderate-High,$35–$44,Yes,https://www.austintexas.gov/department/roy-kizer-course
+35,Blackhawk GC,"Pflugerville, TX",18,72,"7,072",Moderate,$32–$44,Yes,https://www.blackhawkgolf.com/
+36,Forest Creek GC,"Round Rock, TX",18,72,"7,147",Challenging,~$75,Yes,https://www.forestcreekgolf.com/
+37,Teravista GC,"Round Rock, TX",18,72,"7,039",Challenging,$52–$72,Yes,https://www.teravistagolf.com/
+38,Lago Vista GC,"Lago Vista, TX",18,72,"6,579",Moderate,$48–$54,Yes,https://www.lagovistagolf.com/
+39,Harvey Penick Golf Campus,"Austin, TX",9,30,"2,127",Beginner,$13,Yes (walk-in),https://www.harveypenickgolfcampus.com/
+40,Falconhead GC,"Austin, TX",18,72,"7,302",Challenging,$69–$99,Yes,https://www.falconheadgolf.com/
+41,Grey Rock GC,"Austin, TX",18,72,"7,120",Challenging,$75–$120,Yes,https://www.greyrockgolf.com/
+42,Butler Pitch & Putt,"Austin, TX",9,27,Short,Beginner,$14–$16,Yes (walk-in),https://www.austintexas.gov/department/butler-pitch-putt
+43,Cedars on Bergstrom GC,"Austin, TX",18,—,—,—,Call,Call,https://www.cedarsonbergstrom.com/
+44,River Place CC,"Austin, TX",18,71,"6,683",Challenging,$100+,Limited Public,https://www.riverplacecc.com/
+45,Canyon Springs GC,"San Antonio, TX",18,72,"6,800",Challenging,$60–$95,Yes,https://www.canyonspringsgc.com/
+46,Republic GC,"San Antonio, TX",18,72,"6,800",Moderate,$40–$70,Yes,https://www.republicgc.com/
+47,Mission del Lago GC,"San Antonio, TX",18,72,"6,900",Moderate,$30–$50,Yes,https://alamocitygolftrail.com/mission-del-lago-golf-course/
+48,Silverhorn GC,"San Antonio, TX",18,72,"6,900",Moderate,$50–$80,Yes,https://www.silverhorngolf.com/
+49,Hyatt Hill Country GC,"San Antonio, TX",18,72,"6,900",Moderate,$100+,Limited Public,https://www.hyatthillcountry.com/
+50,River Crossing GC,"Seguin, TX",18,72,"6,900",Moderate,$40–$70,Yes,https://www.rivercrossinggc.com/
+51,Double J Ranch GC,"Woodcreek, TX",18,72,"6,470",Moderate,~$65,Yes,https://www.doublejranchgc.com/
+52,Quicksand GC,"San Marcos, TX",18,72,"6,800",Moderate,$30–$50,Yes,https://www.quicksandgc.com/
